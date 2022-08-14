@@ -1,0 +1,93 @@
+cheats = 23
+
+cheat0_desc = "Arma infinita 1 (Must Be On)"
+cheat0_code = "800D3F16 0003"
+cheat0_enable = false 
+
+cheat1_desc = "Arma infinita 2(Timed Missions)"
+cheat1_code = "800D3F1A 0003"
+cheat1_enable = false 
+
+cheat2_desc = "Arma infinita 3"
+cheat2_code = "800D3F1E 0003"
+cheat2_enable = false 
+
+cheat3_desc = "Arma infinita 4 (All Guns)"
+cheat3_code = "800D3F22 0003"
+cheat3_enable = false 
+
+cheat4_desc = "Arma infinita 5"
+cheat4_code = "800D3F26 0003"
+cheat4_enable = false 
+
+cheat5_desc = "Arma infinita 6(Shop)"
+cheat5_code = "800D3F2A 0003"
+cheat5_enable = false 
+
+cheat6_desc = "Arma 1"
+cheat6_code = "800D215C 0001"
+cheat6_enable = false
+
+cheat7_desc = "Arma 2"
+cheat7_code = "800D2160 0002"
+cheat7_enable = false
+
+cheat8_desc = "Arma 3"
+cheat8_code = "800D2164 0003"
+cheat8_enable = false
+
+cheat9_desc = "Arma 4"
+cheat9_code = "800D2168 0004"
+cheat9_enable = false
+
+cheat10_desc = "Arma 5"
+cheat10_code = "800D216C 0005"
+cheat10_enable = false
+
+cheat11_desc = "Arma 6"
+cheat11_code = "800D2170 0006"
+cheat11_enable = false
+
+cheat12_desc = "Arma 7"
+cheat12_code = "800D2174 000A"
+cheat12_enable = false
+
+cheat13_desc = "Arma 8"
+cheat13_code = "800D2178 000B"
+cheat13_enable = false
+
+cheat14_desc = "Arma 9"
+cheat14_code = "800D217C 000C"
+cheat14_enable = false
+
+cheat15_desc = "Arma 10"
+cheat15_code = "800D2180 000D"
+cheat15_enable = false
+
+cheat16_desc = "Arma 11"
+cheat16_code = "800D2184 000E"
+cheat16_enable = false
+
+cheat17_desc = "Arma 12"
+cheat17_code = "800D2188 000F"
+cheat17_enable = false
+
+cheat18_desc = "Arma 13"
+cheat18_code = "800D218C 0010"
+cheat18_enable = false
+
+cheat19_desc = "Arma 14"
+cheat19_code = "800D2190 0011"
+cheat19_enable = false
+
+cheat20_desc = "Arma 15"
+cheat20_code = "800D2194 0012"
+cheat20_enable = false
+
+cheat21_desc = "Arma 16"
+cheat21_code = "800D2198 0013"
+cheat21_enable = false
+
+cheat22_desc = "Arma 17"
+cheat22_code = "800D219C 0014"
+cheat22_enable = false
