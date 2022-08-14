@@ -1,0 +1,26 @@
+cheats = 6 
+
+cheat0_desc = "Arma infinita 1 (Must Be On)"
+cheat0_code = "800D3F16 0003"
+cheat0_enable = false 
+
+cheat1_desc = "Arma infinita 2(Timed Missions)"
+cheat1_code = "800D3F1A 0003"
+cheat1_enable = false 
+
+cheat2_desc = "Arma infinita 3"
+cheat2_code = "800D3F1E 0003"
+cheat2_enable = false 
+
+cheat3_desc = "Arma infinita 4 (All Guns)"
+cheat3_code = "800D3F22 0003"
+cheat3_enable = false 
+
+cheat4_desc = "Arma infinita 5"
+cheat4_code = "800D3F26 0003"
+cheat4_enable = false 
+
+cheat5_desc = "Arma infinita 6(Shop)"
+cheat5_code = "800D3F2A 0003"
+cheat5_enable = false 
+
